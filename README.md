@@ -1,1 +1,1 @@
-# Numerical methods. Systems of linear algebraic equations
+# Numerical methods. Solution of a two-dimensional nonstationary heat equation
