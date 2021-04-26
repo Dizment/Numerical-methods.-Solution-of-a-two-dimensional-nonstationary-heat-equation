@@ -1,1 +1,1 @@
-# Numerical-methods.-Systems-of-linear-algebraic-equations
+# Numerical methods. Systems of linear algebraic equations
